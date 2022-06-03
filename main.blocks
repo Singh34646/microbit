@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="MiTIo*jI*n9qU48I4emN">microbit</variable><variable id="gNu+7pW*?fnMr`901z]d">Container</variable><variable id=".:KmF7ECJSD:p_Rz!zSs">fails</variable></variables><block type="device_forever" id="ZAmKJ!x0|Oy4p2Oe~dqn" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="J5%Tple1#Ky3mKa^].93"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . # . # 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block></xml>
